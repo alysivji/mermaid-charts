@@ -1,0 +1,16 @@
+{
+  "name": "mermaid-charts",
+  "version": "1.0.0",
+  "description": "- [Live Editor](https://mermaid-js.github.io/mermaid-live-editor)",
+  "main": "index.js",
+  "dependencies": {
+    "mermaid.cli": "^0.5.1",
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
